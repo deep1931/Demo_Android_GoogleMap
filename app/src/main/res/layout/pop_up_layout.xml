@@ -11,7 +11,7 @@
     <TextView
         android:id="@+id/txt_address"
         android:layout_width="wrap_content"
-        android:lines="9"
+        android:lines="7"
         android:textSize="10sp"
         android:gravity="center"
         android:textColor="@android:color/white"
